@@ -1,6 +1,8 @@
 ---
 title: Getting Started
-lead: <a href="http://jekyllrb.com">Jekyll</a> is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes.
+lead: > 
+  <a href="http://jekyllrb.com">Jekyll</a> is a static site generator, an open-source tool for creating simple yet powerful 
+  websites of all shapes and sizes.
 youtube: https://www.youtube.com/embed/KbB0FjPg0mw?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo
 ---
 
