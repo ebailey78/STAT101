@@ -8,6 +8,9 @@ layout: default
 </header>      
 <div class="content post">
   <h1 class="post-title">{{ page.title }}</h1>
+  {% if page.subtitle %}
+    <h2 class="post-title">{{ page.subtitle }}</h2>
+  {% endif %}
   <div class="post-date">
     <time>{{ page.date | date_to_string }}</time>
   </div>
