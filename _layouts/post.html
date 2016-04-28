@@ -12,10 +12,10 @@ layout: default
     <time>{{ page.date | date_to_string }}</time>
   </div>
   {% if page.lead %}
-    <p class="lead">{{ lead }}</p>
+    <p class="lead">{{ page.lead }}</p>
   {% endif %}
   {% if page.youtube %}
-    <iframe width="560" height="315" src="{{youtube}}" frameborder="0" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="{{ page.youtube }}" frameborder="0" allowfullscreen></iframe>
   {% endif %}
   {{ content }}
 </div>
