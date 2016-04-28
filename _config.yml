@@ -15,7 +15,7 @@ markdown:           kramdown
 
 # Navigation
 nav:
-  - name:           "STAT110"
+  - name:           "STAT110 Site"
     href:           "//projects.iq.harvard.edu/stat110"
   - name:           "Nathan's Blog"
     href:           "//natebyers.github.io/"
