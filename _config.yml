@@ -3,7 +3,7 @@
 # # # # # # # #
 
 # Basic
-name:               "Eric's STAT101 Journey"
+name:               "Eric's STAT110 Journey"
 
 # URL
 baseurl:            "//ebailey78.github.io/STAT101/"
@@ -15,8 +15,8 @@ markdown:           kramdown
 
 # Navigation
 nav:
-  - name:           "About"
-    href:           "//gfjaru.github.io/Kiko/about"
+  - name:           "STAT110"
+    href:           "//projects.iq.harvard.edu/stat110"
   - name:           "Download"
     href:           "//github.com/gfjaru/Kiko/releases"
 
