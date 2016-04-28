@@ -3,10 +3,10 @@
 # # # # # # # #
 
 # Basic
-name:               "STAT101"
+name:               "Eric's STAT101 Journey"
 
 # URL
-baseurl:            ""
+baseurl:            "STAT101"
 #baseurl:            "" #For Root Domain
 permalink:          /:year/:month/:day/:title.html
 
