@@ -1,13 +1,10 @@
 ---
 title: Getting Started
-lead: > 
-  <a href="http://jekyllrb.com">Jekyll</a> is a static site generator, an open-source tool for creating simple yet powerful 
-  websites of all shapes and sizes.
-youtube: https://www.youtube.com/embed/KbB0FjPg0mw?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo
 ---
 
-From [the project's readme](https://github.com/jekyll/jekyll/blob/master/README.markdown):
-
-> Jekyll is a simple, blog aware, static site generator. It takes a template directory [...] and spits out a complete, static website suitable for serving with Apache or your favorite web server. This is also the engine behind GitHub Pages, which you can use to host your project’s page or blog right here from GitHub.
-
-It's an immensely useful tool. Find out more by [visiting the project on GitHub](https://github.com/jekyll/jekyll).
+<p>
+  I'm going to attempt to teach myself the basics of probability by working my way through <a href = "http://www.amazon.com/Introduction-Probability-Chapman-Statistical-Science/dp/1466575573/ref=sr_1_2?ie=UTF8&qid=1461808075&sr=8-2&keywords=Introduction+to+probability" target = "_blank">Introduction to Probability</a> by Joseph K. Blitzstein and Jessica Hwang. The book has a <a href = "http://projects.iq.harvard.edu/stat110" target = "_blank">companion site</a> with links to lecture videos, handouts and additional materials.
+</p>
+<p>
+  The plan is to try to tackle a chapter a week. That is probably a bit optimistic but we will see how it goes.
+</p>
