@@ -1,11 +1,8 @@
 ---
 title: Getting Started
+lead: <a href="http://jekyllrb.com">Jekyll</a> is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes.
 youtube: https://www.youtube.com/embed/KbB0FjPg0mw?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo
 ---
-
-<p class="lead"> <a href="http://jekyllrb.com">Jekyll</a> is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes.</p>
-
-<iframe width="560" height="315" src="{{youtube}}" frameborder="0" allowfullscreen></iframe>
 
 From [the project's readme](https://github.com/jekyll/jekyll/blob/master/README.markdown):
 
