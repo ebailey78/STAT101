@@ -6,7 +6,7 @@
 name:               "Eric's STAT110 Journey"
 
 # URL
-baseurl:            "//ebailey78.github.io/STAT101/"
+baseurl:            "//ebailey78.github.io/STAT110/"
 #baseurl:            "" #For Root Domain
 permalink:          /:year/:month/:day/:title.html
 
