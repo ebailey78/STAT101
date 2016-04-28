@@ -355,6 +355,11 @@ tbody tr:nth-child(odd) th {
   &-post-title {
     margin-bottom: .25rem;
     
+    small {
+      color: #AAA;
+      font-size: 0.7em;
+    }
+    
     a {
       color: #333;
       
