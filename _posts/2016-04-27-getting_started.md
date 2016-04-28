@@ -1,5 +1,7 @@
 ---
 title: Getting Started
+lead: >
+  I'm going to try to teach myself probability...
 ---
 
 <p>
