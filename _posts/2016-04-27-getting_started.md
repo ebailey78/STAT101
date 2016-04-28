@@ -10,3 +10,7 @@ lead: >
 <p>
   The plan is to try to tackle a chapter a week. That is probably a bit optimistic but we will see how it goes.
 </p>
+
+Beyond forcing myself to take notes I'm also using this blog as a way to get more familiar with Jekyll and using Jekyll in GitHub Pages.
+
+I'm using the [Kiko](http://github.com/gfjaru/Kiko) theme for [Jekyll](http://jekyllrb.com), as a starting point and working on customizing it to my needs for the site. For example, I've added front matter to the post template that, when present, will embed the youtube video for the lecture I am discussing at the top of the post.
