@@ -17,8 +17,8 @@ markdown:           kramdown
 nav:
   - name:           "STAT110"
     href:           "//projects.iq.harvard.edu/stat110"
-  - name:           "Download"
-    href:           "//github.com/gfjaru/Kiko/releases"
+  - name:           "Nathan's Blog"
+    href:           "//natebyers.github.io/"
 
 # Sass
 sass:
